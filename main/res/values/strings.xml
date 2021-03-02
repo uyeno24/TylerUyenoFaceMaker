@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TylerUyenoHW2</string>
+    <string-array name="hairStyle">
+        <item>Bald</item>
+        <item>Afro</item>
+        <item>Long Hair</item>
+    </string-array>
+</resources>
